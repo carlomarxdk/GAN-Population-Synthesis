@@ -1,1 +1,1 @@
-# GAN-Population-Synthesis
+# GAN: Population Synthesis
