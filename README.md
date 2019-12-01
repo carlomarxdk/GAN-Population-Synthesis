@@ -1,1 +1,1 @@
-# GAN: Population Synthesis
+# GP-WGAN: Population Synthesis
