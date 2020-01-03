@@ -10,5 +10,7 @@ CSV files contain the logs of the training
 OTHER FILES contain weights of the generator models
 
 
-
 With these logs you would be able to run the visualisation and load the models in all Visualisation Notebooks
+
+
+CODE folder contains archived and unfinished VQVAE code.
