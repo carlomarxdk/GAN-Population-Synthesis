@@ -14,3 +14,4 @@ With these logs you would be able to run the visualisation and load the models i
 
 
 CODE folder contains archived and unfinished VQVAE code.
+Thanks to Sergio Garrido for the snippets of code.
